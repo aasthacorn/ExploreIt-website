@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Prabhakar kumar",
+    "imgAvatar": "4",
+    "review": "Quick turnaround. Got all the booking done within 2 days. Responsive support team. Overall highly recommended for people who loves travelling.",
+    "rating": "4.6"
+  },
+  {
+    "id": 2,
+    "name": "Alice Johnson",
+    "imgAvatar": "8",
+    "review": "Excellent service! The team was very helpful in planning our vacation. They provided great recommendations and everything went smoothly.",
+    "rating": "4.8"
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "imgAvatar": "2",
+    "review": "Fast and efficient service. The booking process was easy, and they promptly addressed any queries. Had a wonderful experience.",
+    "rating": "4.6"
+  },
+  {
+    "id": 4,
+    "name": "Emily Brown",
+    "imgAvatar": "6",
+    "review": "Highly satisfied with the service. They customized our itinerary perfectly, and the trip exceeded our expectations. Definitely recommend!",
+    "rating": "4.9"
+  },
+  {
+    "id": 5,
+    "name": "Michael Lee",
+    "imgAvatar": "3",
+    "review": "Great customer support! They were responsive and attentive throughout the trip. We had a fantastic time and will book with them again.",
+    "rating": "4.7"
+  }
+]
